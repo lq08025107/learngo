@@ -5,7 +5,7 @@ import (
 	"os"
 )
 
-const dataFile = "data/data.json"
+const dataFile = "H:\\workspace\\go\\learngo\\ch2\\sample\\data\\data.json"
 
 type Feed struct {
 	Name string `json:"site"`
